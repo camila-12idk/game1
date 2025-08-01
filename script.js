@@ -2,7 +2,7 @@ let colorlist = ['gold', 'yellow', 'turquoise', 'red']
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(254);
+  background(253);
 }
 
 function draw() {
